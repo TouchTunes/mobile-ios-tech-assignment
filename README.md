@@ -22,3 +22,5 @@ The dialog must have only an "OK" button that dismisses the dialog.
 ## Guidelines ##
 
 While this is a small and simple test, we want you to structure the code for extensibility and modularity; so, pick an appropriate architecture. You are free to use whatever other third-party libraries you want. Once finished, create a zip file with your solution and send it back to the interviewer that sent you the initial instruction. An acknowledgment will be sent to you after reception if everything is all right.
+
+Please take the time to build a solution that you feel proud of and that would be a clear representation of your knowledge and expertise in iOS Development.
